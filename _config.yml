@@ -1,4 +1,4 @@
-remote_theme: zhonger/jekyll-theme-H2O-ac
+remote_theme: zerostaticthemes/jekyll-atlantic-theme
 collections:
   projects:
     output: true
