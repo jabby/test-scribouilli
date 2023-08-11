@@ -1,5 +1,4 @@
-remote_theme: zerostaticthemes/jekyll-atlantic-theme
-collections:
+remote_theme: scribouilli/mimoza
   projects:
     output: true
 plugins:
